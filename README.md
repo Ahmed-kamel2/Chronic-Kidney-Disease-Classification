@@ -1,4 +1,3 @@
-# Chronic-Kidney-Disease-Classification
 # Chronic Kidney Disease Prediction System using Machine Learning, Data Analysis & Visualization
 
 ## Overview
